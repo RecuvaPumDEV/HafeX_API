@@ -34,7 +34,7 @@ npm remove hafex_api
 ```
 
 
-## Usages on the github
+## Examples on the github
 [HafeX_API Github](https://github.com/RecuvaPumDEV/HafeX_API)
 
 ## License
