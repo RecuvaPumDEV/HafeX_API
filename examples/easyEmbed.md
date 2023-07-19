@@ -23,4 +23,4 @@ const embed = hafex_api.easyEmbed({
 message.reply({ embeds: [embed] });
 ```
 
-<img src="https://media.discordapp.net/attachments/1130927370933641326/1130966978279002303/image.png?width=352&height=520" style="width: 200px;height: 400px;">
+<img src="https://media.discordapp.net/attachments/1130927370933641326/1130966978279002303/image.png?width=352&height=520">
