@@ -37,6 +37,9 @@ npm remove hafex_api
 ## Examples on the github
 [HafeX_API Github](https://github.com/RecuvaPumDEV/HafeX_API)
 
+## Discord Server
+[Join to discord server](https://discord.gg/XpGkapQgZh)
+
 ## License
 
 ISC
