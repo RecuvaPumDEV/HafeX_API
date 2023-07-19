@@ -1,5 +1,7 @@
 # HafeX_API
 
+[![discord](https://img.shields.io/discord/1126520940864479332?label=Discord&style=for-the-badge&labelColor=gray&color=blue)](https://discord.gg/XpGkapQgZh)
+
 [WEBSITE](https://hafex.xyz/)
 <img src="https://hafex.xyz/hafex_100.png" style="width:50px;height:50px;" align="right"/>
 THIS IS ONLY FOR DISCORD.JS V14 & NODE.JS V18 OR HIGHER
