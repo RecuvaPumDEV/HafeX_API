@@ -1,1 +1,1 @@
-Testing connection with discord
+Testing connection with discord | test
