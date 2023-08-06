@@ -1,4 +1,4 @@
-## Generates a random joke
+## Generates a random meme
 
 ```js
 const hafex_api = require("hafex_api");

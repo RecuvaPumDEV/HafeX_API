@@ -2,8 +2,8 @@
 
 ```js
 const hafex_api = require("hafex_api");
-hafex_api.joke("title")
-hafex_api.joke("url")
+hafex_api.joke("title") //Sends the name of the joke
+hafex_api.joke("url") //Sends joke url
 ```
 
 ## Example
